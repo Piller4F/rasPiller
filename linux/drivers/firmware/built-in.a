@@ -1,0 +1,45 @@
+!<thin>
+//                                              308       `
+dmi_scan.o/
+dmi-id.o/
+raspberrypi.o/
+sysfb.o/
+efi/efi.o/
+efi/vars.o/
+efi/reboot.o/
+efi/memattr.o/
+efi/tpm.o/
+efi/memmap.o/
+efi/fdtparams.o/
+efi/esrt.o/
+efi/runtime-wrappers.o/
+efi/sysfb_efi.o/
+efi/efi-init.o/
+efi/arm-runtime.o/
+efi/earlycon.o/
+psci/psci.o/
+smccc/smccc.o/
+smccc/kvm_guest.o/
+smccc/soc_id.o/
+
+/0              0           0     0     644     31960     `
+/12             0           0     0     644     11152     `
+/22             0           0     0     644     22656     `
+/37             0           0     0     644     5104      `
+/46             0           0     0     644     26936     `
+/57             0           0     0     644     35576     `
+/69             0           0     0     644     3408      `
+/83             0           0     0     644     6344      `
+/98             0           0     0     644     5176      `
+/109            0           0     0     644     7200      `
+/123            0           0     0     644     3504      `
+/140            0           0     0     644     13224     `
+/152            0           0     0     644     25240     `
+/176            0           0     0     644     24872     `
+/193            0           0     0     644     6552      `
+/209            0           0     0     644     6848      `
+/228            0           0     0     644     7720      `
+/244            0           0     0     644     15968     `
+/257            0           0     0     644     6480      `
+/272            0           0     0     644     4848      `
+/291            0           0     0     644     6520      `

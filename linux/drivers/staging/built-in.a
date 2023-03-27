@@ -1,0 +1,14 @@
+!<thin>
+//                                              264       `
+android/ashmem.o/
+vc04_services/interface/vchiq_arm/vchiq_core.o/
+vc04_services/interface/vchiq_arm/vchiq_arm.o/
+vc04_services/interface/vchiq_arm/vchiq_debugfs.o/
+vc04_services/interface/vchiq_arm/vchiq_connected.o/
+vc04_services/interface/vchiq_arm/vchiq_dev.o/
+/0              0           0     0     644     18888     `
+/18             0           0     0     644     86472     `
+/66             0           0     0     644     61184     `
+/113            0           0     0     644     9384      `
+/164            0           0     0     644     4416      `
+/217            0           0     0     644     31336     `

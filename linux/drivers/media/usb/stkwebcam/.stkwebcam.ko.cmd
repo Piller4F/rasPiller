@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/stkwebcam/stkwebcam.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o drivers/media/usb/stkwebcam/stkwebcam.ko drivers/media/usb/stkwebcam/stkwebcam.o drivers/media/usb/stkwebcam/stkwebcam.mod.o;  true

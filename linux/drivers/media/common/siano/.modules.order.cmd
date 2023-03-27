@@ -1,0 +1,1 @@
+cmd_drivers/media/common/siano/modules.order := {   echo drivers/media/common/siano/smsmdtv.ko;   echo drivers/media/common/siano/smsdvb.ko; :; } | awk '!x[$$0]++' - > drivers/media/common/siano/modules.order
