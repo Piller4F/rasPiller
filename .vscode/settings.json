@@ -1,0 +1,12 @@
+{
+    "search.exclude": {
+        "**/*.o*": true,
+        "**/*.mod*": true,
+        "**/*.cmd": true,
+    },
+    "files.exclude": {
+        "**/*.o*": true,
+        "**/*.mod*": true,
+        "**/*.cmd": true,
+    }
+}
